@@ -9,6 +9,10 @@ One or more lines of text.
 
 ## Output Format
 
+## Constraints
++ The snippet will be one of the follwing languages: German, English, French, Spanish
++ The snippet's size must not exceed 3 kilobytes
+
 Print the snippet's language (in Title Case, as written above) on a new line.
 
 ## Sample Input
