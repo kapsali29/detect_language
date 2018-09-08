@@ -4,16 +4,15 @@ Given a snippet of text in English, French, German, or Spanish, detect the snipp
 You may make no more than 15 submissions for this problem, during the contest.
 
 ## Input Format
-
 One or more lines of text.
 
 ## Output Format
+Print the snippet's language (in Title Case, as written above) on a new line.
+
 
 ## Constraints
 + The snippet will be one of the follwing languages: German, English, French, Spanish
 + The snippet's size must not exceed 3 kilobytes
-
-Print the snippet's language (in Title Case, as written above) on a new line.
 
 ## Sample Input
 
